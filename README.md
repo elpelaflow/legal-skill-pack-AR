@@ -1,4 +1,4 @@
-# Preparacion de Patentes ante INPI (Argentina)
+# Patent Application Preparation (Argentina)
 
 Este repositorio contiene una skill para preparar materiales de divulgacion tecnica y borradores de memoria descriptiva para patentes de invencion en Argentina.
 

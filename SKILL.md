@@ -8,7 +8,7 @@ metadata:
   short-description: Preparacion guiada de patente tecnica para INPI Argentina
 ---
 
-# Preparacion de Patentes ante INPI (Argentina)
+# Patent Application Preparation (Argentina)
 
 Este skill organiza la preparacion de materiales para una divulgacion tecnica inicial.
 
