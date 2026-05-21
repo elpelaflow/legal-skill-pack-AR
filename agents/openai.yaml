@@ -1,0 +1,3 @@
+display_name: Registro de Datos Personales AAIP
+short_description: Prepara bases, seguridad y borradores documentales para cumplimiento AAIP
+default_prompt: Leé el caso actual y prepará los borradores necesarios para relevar bases de datos personales y documentación AAIP en Argentina.
