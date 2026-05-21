@@ -1,0 +1,3 @@
+display_name: Contrato de Desarrollo de Software
+short_description: Prepara borradores contractuales para proyectos de desarrollo a medida
+default_prompt: Leé el caso actual y prepará un borrador de contrato de desarrollo de software para Argentina.
