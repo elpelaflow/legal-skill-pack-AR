@@ -8,7 +8,7 @@ metadata:
   short-description: Preparacion guiada para registro de software ante DNDA
 ---
 
-# Registro de Software ante DNDA (Argentina)
+# Software Copyright Registration (Argentina)
 
 Este skill organiza la preparacion de materiales para el registro de software.
 

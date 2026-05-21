@@ -1,4 +1,4 @@
-# Registro de Software ante DNDA (Argentina)
+# Software Copyright Registration (Argentina)
 
 Este repositorio contiene una skill para preparar materiales de registro de software ante la Direccion Nacional del Derecho de Autor en Argentina.
 
