@@ -1,0 +1,3 @@
+display_name: NDA Argentina
+short_description: Prepara acuerdos de confidencialidad unilaterales o mutuos
+default_prompt: Leé el caso actual y prepará un acuerdo de confidencialidad para Argentina listo para revisión y firma.
