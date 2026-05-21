@@ -1,0 +1,3 @@
+display_name: Factura E Argentina
+short_description: Prepara factura E, matriz fiscal y checklist cambiario
+default_prompt: Leé el caso actual y prepará la guía de facturación de exportación de servicios para Argentina.
