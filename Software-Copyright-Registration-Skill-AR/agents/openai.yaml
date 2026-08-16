@@ -1,0 +1,3 @@
+display_name: DNDA Software Argentina
+short_description: Prepara materiales de registro de software para DNDA
+default_prompt: Lee el proyecto actual y prepara los materiales de registro de software ante DNDA en Argentina.
