@@ -1,0 +1,3 @@
+display_name: Validación de Documentación Legal AR
+short_description: Revisa localización, referencias y formato de documentos legales para Argentina
+default_prompt: Leé los documentos del caso actual y generá un reporte de validación legal/documental orientado a Argentina.
