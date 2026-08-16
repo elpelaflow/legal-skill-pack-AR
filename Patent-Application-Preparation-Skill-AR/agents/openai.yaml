@@ -1,0 +1,3 @@
+display_name: INPI Patentes Argentina
+short_description: Prepara divulgacion tecnica y borradores para INPI
+default_prompt: Lee el proyecto actual y prepara una base de divulgacion tecnica para patente en Argentina.
