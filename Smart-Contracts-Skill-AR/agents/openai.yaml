@@ -1,0 +1,3 @@
+display_name: Smart Contracts Argentina
+short_description: Modela lógica contractual automatizada con foco legal argentino
+default_prompt: Leé el caso actual y prepará una especificación de smart contract y lógica automatizada para Argentina.
