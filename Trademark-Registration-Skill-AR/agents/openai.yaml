@@ -1,0 +1,3 @@
+display_name: Registro de Marca INPI Argentina
+short_description: Prepara búsquedas, clases Niza y borradores de solicitud marcaria
+default_prompt: Leé el caso actual y prepará los borradores necesarios para registrar una marca ante el INPI Argentina.
